@@ -8,7 +8,7 @@ This was my fourth project in 17-week Udacity Deep Learning Nanodegree Foundatio
 
 Topics like Recurrent Neural Networks, Sequence-to-Sequence Model and Reinforcement Learning were covered during the lectures. Solid understanding of all these topics is a primary requirement.
 
-This project involved the building of a Sequence-to-Sequence model by implementing the following functions below:
+This project involved the building of a Sequence-to-Sequence model by implementing the following functions mentioned below:
 
 - model_inputs
 - process_decoder_input
