@@ -6,6 +6,8 @@
 
 This was my fourth project in 17-week Udacity Deep Learning Nanodegree Foundation. In this project, I trained a sequence to sequence model on a dataset of English and French sentences that can translate new sentences from English to French. The project was written in python (on a Jupyter Notebook) in Anaconda environment.
 
+Topics like Recurrent Neural Networks, Sequence-to-Sequence Model and Reinforcement Learning were covered during the lectures. Solid understanding of all these topics is a primary requirement.
+
 This project involved the building of a Sequence-to-Sequence model by implementing the following functions below:
 
 - model_inputs
